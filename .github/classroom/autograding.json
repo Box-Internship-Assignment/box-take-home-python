@@ -1,0 +1,594 @@
+{
+  "tests": [
+    {
+      "name": "basicCheck",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'basicCheck'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "blockOutOfCheck",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'blockOutOfCheck'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "capture",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'capture'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "captureAndPromote",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'captureAndPromote'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "captureDrop",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'captureDrop'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "captureOutOfCheck",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'captureOutOfCheck'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "checkmate",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'checkmate'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "doubleCheck",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'doubleCheck'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "doublePreviewDrop",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'doublePreviewDrop'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "driveIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'driveIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "driveMoves",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'driveMoves'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "drivePromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'drivePromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "drop",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'drop'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "dropEmptyHand",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'dropEmptyHand'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "dropOpponentsPiece",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'dropOpponentsPiece'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "dropOutOfCheck",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'dropOutOfCheck'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "dropWrongPiece",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'dropWrongPiece'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "forcedPreviewPromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'forcedPreviewPromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "governanceIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'governanceIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "governanceMoves",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'governanceMoves'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "governancePromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'governancePromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "immediatePreviewDropMate",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'immediatePreviewDropMate'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "initialMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'initialMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "initialResponse",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'initialResponse'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "loseOnLastMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'loseOnLastMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "lowerIllegalPromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'lowerIllegalPromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "lowerStuckPreviewDrop",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'lowerStuckPreviewDrop'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "manyWaysOutOfCheck",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'manyWaysOutOfCheck'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "mateWithDrop",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'mateWithDrop'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "moveOutOfCheck",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'moveOutOfCheck'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "movingIntoCheck",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'movingIntoCheck'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "notesIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'notesIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "notesMoves",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'notesMoves'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "notesPromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'notesPromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "occupiedDrop",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'occupiedDrop'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "previewIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'previewIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "previewPromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'previewPromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promoteLeavingZone",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promoteLeavingZone'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promoteWithinZone",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promoteWithinZone'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedCaptureDrop",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedCaptureDrop'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedGovernanceIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedGovernanceIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedGovernanceMoves",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedGovernanceMoves'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedNotesIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedNotesIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedNotesMoves",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedNotesMoves'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedPreviewIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedPreviewIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedPreviewMoves",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedPreviewMoves'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedRelayIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedRelayIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedRelayMoves",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedRelayMoves'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "promotedRelayPromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'promotedRelayPromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "relayIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'relayIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "relayMoves",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'relayMoves'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "relayPromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'relayPromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "shieldIllegalMove",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'shieldIllegalMove'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "shieldMoves",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'shieldMoves'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "shieldPromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'shieldPromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "tieGame",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'tieGame'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "upperIllegalPromotion",
+      "setup": "",
+      "run": "./test_runners/test-runner-linux -v -a -f 'upperIllegalPromotion'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+     "name": "upperStuckPreviewDrop",
+     "setup": "",
+     "run": "./test_runners/test-runner-linux -v -a -f 'upperStuckPreviewDrop'",
+     "input": "",
+     "output": "",
+     "comparison": "included",
+     "timeout": 10,
+     "points": 1
+    },
+    {
+     "name": "winOnLastMove",
+     "setup": "",
+     "run": "./test_runners/test-runner-linux -v -a -f 'winOnLastMove'",
+     "input": "",
+     "output": "",
+     "comparison": "included",
+     "timeout": 10,
+     "points": 1
+    }
+  ]
+}

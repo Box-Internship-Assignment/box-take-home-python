@@ -1,0 +1,18 @@
+d a1
+s b1
+r c1
+g d1
+n e1
+p a2
+D e5
+S d5
+R c5
+G b5
+N a5
+P e4
+
+[]
+[]
+
+move a2 a3
+drop s c3

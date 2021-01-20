@@ -1,0 +1,12 @@
+lower player action: move b2 c3
+5 |__| N|__|__| D|
+4 |__|__|__|__|__|
+3 |__|__| d|__|__|
+2 |__|__|__|__|__|
+1 |__|__|+r|__|__|
+    a  b  c  d  e
+
+Captures UPPER: S G N P
+Captures lower: p r s g
+
+UPPER>

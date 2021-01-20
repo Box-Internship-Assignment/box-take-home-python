@@ -1,0 +1,12 @@
+lower player action: move d3 e4
+5 | N|__|__|__| D|
+4 |__|__|__|__| s|
+3 |__|__|__|__| r|
+2 |__|__|__|__|__|
+1 |__| d|__|__|__|
+    a  b  c  d  e
+
+Captures UPPER: G N P
+Captures lower: p g r s
+
+lower player wins.  Checkmate.

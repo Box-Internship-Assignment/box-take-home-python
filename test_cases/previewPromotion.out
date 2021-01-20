@@ -1,0 +1,12 @@
+UPPER player action: move e2 e1 promote
+5 |+p|__|__|__| D|
+4 |__|__|__|__|__|
+3 |__|__|__|__|__|
+2 |__|__|__|__|__|
+1 | d|__|__|__|+P|
+    a  b  c  d  e
+
+Captures UPPER: S R G N
+Captures lower: n g r s
+
+lower>

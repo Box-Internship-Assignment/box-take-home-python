@@ -1,0 +1,22 @@
+d a1
+D e5
+
+[S R G N P]
+[p n g r s]
+
+move a1 a2
+move e5 d4
+move a2 b2
+move d4 e4
+move b2 c3
+move e4 e5
+move c3 c2
+move e5 e4
+move c2 b3
+move e4 d4
+move b3 a3
+move d4 e3
+move a3 b2
+move e3 d4
+move b2 a1
+move d4 e5

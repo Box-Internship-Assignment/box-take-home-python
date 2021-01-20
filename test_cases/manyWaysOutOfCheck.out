@@ -1,0 +1,24 @@
+lower player action: move d1 e1
+5 |__|__|__|__| D|
+4 | N|__|__|__|__|
+3 |__|__|+G|__|__|
+2 |__| s| r|__|__|
+1 |__| d|__|__| n|
+    a  b  c  d  e
+
+Captures UPPER: G P
+Captures lower: p r s
+
+UPPER player is in check!
+Available moves:
+drop g e2
+drop g e3
+drop g e4
+drop p e2
+drop p e3
+drop p e4
+move a4 e4
+move c3 e1
+move e5 d4
+move e5 d5
+UPPER>

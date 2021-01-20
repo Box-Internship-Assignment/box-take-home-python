@@ -1,0 +1,10 @@
+d a2
+D e4
+n b3
+N d3
+
+[S R G P]
+[p g r s]
+
+move b3 b5 promote
+move d3 d1 promote

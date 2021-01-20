@@ -1,0 +1,12 @@
+d b2
+D d4
++p e5
++P a1
+
+[S R G N]
+[n g r s]
+
+move b2 a1
+move d4 e5
+drop p b1
+drop p b5

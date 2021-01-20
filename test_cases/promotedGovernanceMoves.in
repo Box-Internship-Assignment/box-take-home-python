@@ -1,0 +1,70 @@
+d a1
+D e5
++g d1
++G b5
+
+[S R N P]
+[p n r s]
+
+move d1 c2
+move b5 a4
+move c2 d3
+move a4 b3
+move d3 e2
+move b3 c4
+move e2 d1
+move c4 b5
+move d1 c1
+move b5 c5
+move c1 c2
+move c5 c4
+move c2 d2
+move c4 b4
+move d2 d1
+move b4 b5
+move d1 b3
+move b5 d3
+move b3 d1
+move d3 b5
+move d1 c1
+move b5 c5
+move c1 e3
+move c5 a3
+move e3 c1
+move a3 c5
+move c1 d1
+move c5 b5
+move d1 a4
+move b5 e2
+move a4 d1
+move e2 b5
+move d1 c2
+move b5 c4
+move a1 b1
+move e5 d5
+move b1 c1
+move d5 c5
+move c2 b1
+move c4 d5
+move b1 e4
+move d5 a2
+move e4 b1
+move a2 d5
+move b1 a1
+move d5 c4
+move a1 e5
+move c4 b5
+move e5 a1
+move b5 a5
+move a1 b1
+move a5 e1
+move b1 c2
+move e1 a5
+move c2 d1
+move a5 c3
+move d1 e1
+move c3 e5
+move e1 a5
+move e5 a1
+move a5 e1
+move a1 e5

@@ -1,0 +1,10 @@
+d a1
+D e5
+n c1
+R c5
+S d5
+
+[S R G P]
+[p n g]
+
+move c1 c5 promote

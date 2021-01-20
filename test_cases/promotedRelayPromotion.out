@@ -1,0 +1,12 @@
+lower player action: move c4 c5 promote
+5 |__|__|+R|__| D|
+4 |__|__|+r|__|__|
+3 |__|__|__|__|__|
+2 |__|__|__|__|__|
+1 | d|__|__|__|__|
+    a  b  c  d  e
+
+Captures UPPER: S G N P
+Captures lower: p n g s
+
+UPPER player wins.  Illegal move.
