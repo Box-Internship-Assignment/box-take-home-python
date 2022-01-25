@@ -32,7 +32,7 @@ When you accepted the assignment, this Github repo was created. This is where yo
 
 Some starter code is provided and a utility function. **You must use the starter code provided! Please keep the directory structure for the starter code so our autograder can find the main method to run.** You can also use the utility function provided to handle some of the tedious input and output so that you don't need to implement it yourself. The utility function can be modified to suit your needs. It is also optional; not required to be used.
 
-You can work on this project locally on your desktop or online on Repl.it. **No matter what option you choose, please ensure you are using Python `3.8.2` when developing your code**
+You can work on this project locally on your desktop or online on GitHub's in-browser VSCode. **No matter what option you choose, please ensure you are using Python `3.8.2` when developing your code**
 
 ### Working on your Desktop
 
