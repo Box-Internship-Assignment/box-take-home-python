@@ -7,7 +7,6 @@ Please feel free to reach out anytime to our team at internship-take-home@box.co
 Listed below is how to setup your coding environment and begin coding under [Getting Started](#getting-started), the game specification under [Game Rules](#game-rules) and finally the expected game interface under [Game Interface](#game-interface). We recommend reading the games rules and understanding the game interface before you begin coding.
 
 - [Getting Started](#getting-started)
-  - [Python Environment Setup](#setup)
   - [Working on your Desktop](#working-on-your-desktop)
   - [Working Online with VSCode in GitHub](#working-on-github-vscode)
 - [Game Rules](#game-rules)
