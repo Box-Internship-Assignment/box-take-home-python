@@ -1,15 +1,14 @@
 # BoxShogi Specification
 
-We're excited for you to get started on this take home assignment! Below you will find all the information needed to get set up and start coding away! Throughout the two weeks we will invite you to office hours. These are a great way for you to learn more about the assignment as well as Box, and get your questions answered directly from our engineers. You will be invited to four virtual office hours (look out for Google Calendar invites and a Zoom link!) More details can be found [here](https://cloud.box.com/s/dbblapdi6r1s35ogd364vjxoenvr17or). 
+We're excited for you to get started on this take home assignment! Below you will find all the information needed to get set up and start coding away! Throughout the two weeks we will invite you to office hours. These are a great way for you to learn more about the assignment as well as Box, and get your questions answered directly from our engineers. You will be invited to four virtual office hours (look out for Google Calendar invites and a Zoom link!) More details can be found [here](https://cloud.box.com/s/wdri7idvm2j775p7xo4hjo43x6nmziwa). 
 
 Please feel free to reach out anytime to our team at internship-take-home@box.com, whether you have questions/concerns about the assignment or just want to learn more about Box.
 
 Listed below is how to setup your coding environment and begin coding under [Getting Started](#getting-started), the game specification under [Game Rules](#game-rules) and finally the expected game interface under [Game Interface](#game-interface). We recommend reading the games rules and understanding the game interface before you begin coding.
 
 - [Getting Started](#getting-started)
-  - [Python Environment Setup](#setup)
   - [Working on your Desktop](#working-on-your-desktop)
-  - [Working Online with Repl.it (Beta)](#working-on-repl-beta)
+  - [Working Online with VSCode in GitHub](#working-on-github-vscode)
 - [Game Rules](#game-rules)
     - [Overview](#overview)
     - [Objective](#objective)
@@ -26,13 +25,13 @@ Listed below is how to setup your coding environment and begin coding under [Get
 
 ## Getting Started
 
-When you accepted the assignment, this Github repo was created. This is where your assignment code will reside. This is what will be viewed and graded by us. Anytime code is pushed with commit message `Final commit` or `run autograder` to this repo our autograder is run. **You will be graded on passing the tests run by the autograder.** You can view the autograder results by clicking on the <img src="./media/autograder_check.png" width="25" height="25" />, <img src="./media/autograder_x.png" width="25" height="25" /> or <img src="./media/autograder_dot.png" width="25" height="25" /> next to the most recent commit hash. You must add a commit, with commit message `Final commit` or `run autograder` before you see this. This is shown below.
+When you accepted the assignment, this Github repo was created. This is where your assignment code will reside. This is what will be viewed and graded by us. Anytime code is pushed to this repo our autograder is run. **You will be graded on passing the tests run by the autograder.** You can view the autograder results by clicking on the <img src="./media/autograder_check.png" width="25" height="25" />, <img src="./media/autograder_x.png" width="25" height="25" /> or <img src="./media/autograder_dot.png" width="25" height="25" /> next to the most recent commit hash. This is shown below.
 
 ![](media/autograder.gif)
 
 Some starter code is provided and a utility function. **You must use the starter code provided! Please keep the directory structure for the starter code so our autograder can find the main method to run.** You can also use the utility function provided to handle some of the tedious input and output so that you don't need to implement it yourself. The utility function can be modified to suit your needs. It is also optional; not required to be used.
 
-You can work on this project locally on your desktop or online on Repl.it. **No matter what option you choose, please ensure you are using Python `3.8.2` when developing your code, and your code runs on [Repl.it](#working-on-repl-beta) as we will be using it for the code walkthrough**
+You can work on this project locally on your desktop or online on GitHub's in-browser VSCode. **No matter what option you choose, please ensure you are using Python `3.8.2` when developing your code**
 
 ### Working on your Desktop
 
@@ -80,41 +79,9 @@ The test runner and test cases can be found in the `test_runners` and `test_case
 
 Note: the test cases aren't completely exhaustive — there are too many variations of illegal moves for creating a totally exhaustive set to be feasible — but for the purposes of evaluating your solution, you don't need to consider anything not covered by the provided test cases.
 
-### Working on Repl.it (Beta)
+### Working on GitHub VSCode
 
-Repl.it is an online coding environment where you can write code and run tests. 
-
-This year we are including an option to code this project online on Repl.it. This is **beta** program because this is new for us as well as Repl and Github. You can follow the steps below to setup Repl.it and push your code to Github. We also welcome any questions or feedback you may have regarding this option at internship-take-home@box.com.
-
-**For more detailed setup instructions, FAQ's and common issues than what is below, view the box note https://cloud.box.com/s/bia73zsj70zwrlalvl7la9yup6qpglyr**.
-
-#### Create/Sign into a Repl.it Account
-- Go to Repl's sign up [page](https://repl.it/signup) and sign up if don't you have an account or login if you already have one linked to your Github
-- You **must** create an account using your Github login
-
-#### Setup Repl.it
-- Open this link https://classroom.github.com/a/ZLSMcNsc in a new tab 
-- Then click on the <img src="./media/work_in_repl.png" width="80" height="25" /> button in the assignment page you just opened. You will be redirected to your repo in Repl.
-- Once redirected, you can write code and run tests.
-- Tests can be run by pressing the green `Run` button at the top of REPL. If the button doesn't show up, refresh the page.
-- **Common Issues**
-    - **Not redirected to your Repl** - You must be logged into Repl in the browser you use to open your repo
-    - View FAQs and issues here https://cloud.box.com/s/bia73zsj70zwrlalvl7la9yup6qpglyr
-
-![](media/setup_repl.gif)
-
-#### Push code from Repl.it to Github
-Once you have made your changes in Repl.it, you should push the changes to Github. The steps to do so are the following and are shown in the GIF below:
-- Click on the <img src="./media/repl_code_icon.png" width="30" height="30" /> icon in the right navigation bar
-- Type in the commit message in the commit text box
-- Then click `Commit & push ->` button to push the changes to Github
-
-![](media/code_with_repl.gif)
-
-#### Access Repl.it in the future
-To access your code in Repl after setting up, you can **login** to Repl, click on **My repls**, and click on your project as shown below
-
-![](media/access_repl.png)
+GitHub has recently launched a VSCode online coding environment where you can write code and commit your changes using a broswer-based VSCode instance. To begin using this, navigate to your repository, `https://github.com/Box-Internship-Assignment/box-take-home-python-<your-github-username>/`, and press `.`. This will launch a browser-based session of VSCode.
 
 ## Game Rules
 
