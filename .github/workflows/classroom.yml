@@ -18,4 +18,4 @@
             uses: education/autograding@v1
           - name: Run interactive mode and verify output
             run: |
-              bash test_runners/inttest.sh
+              bash test_runners/interactive-test-runner.sh
