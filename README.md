@@ -57,6 +57,13 @@ The test runner is provided as a binary, and supports macOS, Windows 10, and Ubu
 
 The test runner and test cases can be found in the `test_runners` and `test_cases` folder respectively.
 
+There is also a test runner for interactive mode. This makes sure interactive mode works as expected in the autograder. You can also run it locally on Mac and Linux (add `-m` when running on Mac).
+
+```
+sh test_runners/interactive-test-runner.sh
+
+```
+
 ##### Running the test runner
 - To invoke the test runner, navigate to this repo in your terminal and execute the version for your operating system from the project root directory. e.g. `./test_runners/test-runner-mac`, or on Windows, `cmd /K ./test_runners/test-runner-windows.exe`
 - **Notes**

@@ -1,0 +1,35 @@
+5 | N| G| R| S| D|
+4 |__|__|__|__| P|
+3 |__|__|__|__|__|
+2 | p|__|__|__|__|
+1 | d| s| r| g| n|
+    a  b  c  d  e
+
+Captures UPPER:
+Captures lower:
+
+lower> move e1 e2
+lower player action: move e1 e2
+5 | N| G| R| S| D|
+4 |__|__|__|__| P|
+3 |__|__|__|__|__|
+2 | p|__|__|__| n|
+1 | d| s| r| g|__|
+    a  b  c  d  e
+
+Captures UPPER:
+Captures lower:
+
+UPPER> move a5 b4
+UPPER player action: move a5 b4
+5 | N| G| R| S| D|
+4 |__|__|__|__| P|
+3 |__|__|__|__|__|
+2 | p|__|__|__| n|
+1 | d| s| r| g|__|
+    a  b  c  d  e
+
+Captures UPPER:
+Captures lower:
+
+lower player wins.  Illegal move.

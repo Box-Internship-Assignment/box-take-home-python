@@ -130,3 +130,6 @@ dmypy.json
 
 # System Files
 .DS_Store
+
+# Interactive mode test
+interactiveTestResult*
